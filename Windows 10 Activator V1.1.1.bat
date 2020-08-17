@@ -1,36 +1,3 @@
-::[Bat To Exe Converter]
-::
-::YAwzoRdxOk+EWAnk
-::fBw5plQjdG8=
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSDk=
-::cBs/ulQjdF+5
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpCI=
-::egkzugNsPRvcWATEpCI=
-::dAsiuh18IRvcCxnZtBJQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQImeVUFAlXi
-::ZQ05rAF9IBncCkqN+0xwdVtCHUrTcjra
-::ZQ05rAF9IAHYFVzEqQIHIRVQQxORfDrqRpQf/OHt7v6IsC0=
-::eg0/rx1wNQPfEVWB+kM9LVsJDDOLMm+1EaZcubi7zumTq1scQO0tGA==
-::fBEirQZwNQPfEVWB+kM9LVsJDDOLMm+1EaZcubi7zumTq1scQO0tGA==
-::cRolqwZ3JBvQF1fEqQIRaCxdQgCNK3j6V+Vcyevv5vyGtkIPNA==
-::dhA7uBVwLU+EWDk=
-::YQ03rBFzNR3SWATElA==
-::dhAmsQZ3MwfNWATElA==
-::ZQ0/vhVqMQ3MEVWAtB9wSA==
-::Zg8zqx1/OA3MEVWAtB9wSA==
-::dhA7pRFwIByZRRnk
-::Zh4grVQjdCyDJGyX8VAjFB1RQA2JAES0A5EO4f7+09qSrl0UQN4IcYHf1aOdYLFDqmTnYZ87125VioUJFB44
-::YB416Ek+ZW8=
-::
-::
-::978f952a14a936cc963da21a135fa983
 @echo off
 color 0e
 title Windows 10 Activator
